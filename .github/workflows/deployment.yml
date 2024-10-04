@@ -1,4 +1,4 @@
-name: first-workflow
+name: deployment excercise
 on: push
 jobs:
     lint:
